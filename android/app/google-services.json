@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052342044347",
+    "project_id": "ecomereceappp",
+    "storage_bucket": "ecomereceappp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052342044347:android:52272c0a85de71a2c5cb9e",
+        "android_client_info": {
+          "package_name": "com.example.completeecomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052342044347-rdcchedlnftcn9dh11h62pv5i1b682o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.completeecomapp",
+            "certificate_hash": "ceb8ab7fbe0eafb114abb5fdeadddf0ea3efb9b3"
+          }
+        },
+        {
+          "client_id": "1052342044347-6br8o0otk99kkgu9d617e36hjm0cg5sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ReG9XNB4js-adIsPsAoSwL2e1ivPiJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052342044347-6br8o0otk99kkgu9d617e36hjm0cg5sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
